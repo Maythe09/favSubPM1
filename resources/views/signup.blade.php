@@ -20,7 +20,7 @@
         <x-input titulo="Birthday" type="date" nombre="birthday"/>
     </div>
 
-    <button type=submit>Submit</button>
+    <button type="submit" class="px-5 py-2">Submit</button>
     </form>
 
 </div>
